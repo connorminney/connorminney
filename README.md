@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connorminney
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning how to apply my data science skills to make the world a better place
-- 💞️ I’m looking to collaborate on TBD
+- 💞️ I’m not necessarily looking to collaborate, but I want to make my code available to everyone else
 - 📫 How to reach me: connorminney@ymail.com
 
 <!---
