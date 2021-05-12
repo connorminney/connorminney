@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connorminney
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning how to apply my data science skills to make the world a better place
-- 💞️ I’m absolutely definitely 1000% open to collaboration!
+- 💞️ I’m definitely open to collaboration!
 - 📫 How to reach me: connorminney@ymail.com
 
 <!---
